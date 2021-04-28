@@ -1,24 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T04:43:06.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="k54xc98VU4pEScxcfW3e" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-28T05:39:06.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="KiYoUUPA9TYkQRjYBM-o" version="14.6.6" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hAODwibCEJrBx8iiOQUX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hAODwibCEJrBx8iiOQUX-1" target="hAODwibCEJrBx8iiOQUX-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="160" />
+              <mxPoint x="400" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Vehicle Transport Order created&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/record-round-circle-dot-128.png" vertex="1" parent="1">
-          <mxGeometry x="430" y="30" width="60" height="60" as="geometry" />
+          <mxGeometry x="370" y="20" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hAODwibCEJrBx8iiOQUX-3" target="hAODwibCEJrBx8iiOQUX-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Ready for pickup&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hAODwibCEJrBx8iiOQUX-5" target="hAODwibCEJrBx8iiOQUX-6">
           <mxGeometry relative="1" as="geometry" />
@@ -37,31 +37,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-5" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Pickup damage inspection&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="210" width="140" height="115" as="geometry" />
+          <mxGeometry x="330" y="200" width="140" height="115" as="geometry" />
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hAODwibCEJrBx8iiOQUX-6" target="hAODwibCEJrBx8iiOQUX-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Vehicle is Damaged&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hAODwibCEJrBx8iiOQUX-7" target="hAODwibCEJrBx8iiOQUX-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Pickup sign off&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hAODwibCEJrBx8iiOQUX-8" target="hAODwibCEJrBx8iiOQUX-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;In transit&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hAODwibCEJrBx8iiOQUX-9" target="hAODwibCEJrBx8iiOQUX-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Damage upon arrival&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hAODwibCEJrBx8iiOQUX-11" target="hAODwibCEJrBx8iiOQUX-9">
           <mxGeometry relative="1" as="geometry" />
@@ -80,16 +80,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-11" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Delivery damage inspection&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="590" width="140" height="115" as="geometry" />
+          <mxGeometry x="330" y="580" width="140" height="115" as="geometry" />
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hAODwibCEJrBx8iiOQUX-12" target="hAODwibCEJrBx8iiOQUX-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Dropp off sign off&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hAODwibCEJrBx8iiOQUX-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Vehicle Transport Order completed&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/record-round-circle-dot-128.png" vertex="1" parent="1">
-          <mxGeometry x="430" y="920" width="60" height="60" as="geometry" />
+          <mxGeometry x="370" y="910" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
